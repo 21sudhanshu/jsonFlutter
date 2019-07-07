@@ -1,14 +1,6 @@
 {  
 
-   "content":[  
-      {  
-         "id":"asdf      ",
-         "isActive":null,
-         "createdBy":null,
-         "createdOn":null,
-         "updatedBy":null,
-         "updatedOn":null
-      },
+   "content":[
       {  
          "id":"asdf      ",
          "isActive":null,
